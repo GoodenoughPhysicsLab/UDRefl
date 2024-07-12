@@ -2,8 +2,8 @@
 
 #include "config.hpp"
 
-#include <UTemplate/Func.hpp>
-#include <UTemplate/Type.hpp>
+#include "../UTemplate/Func.hpp"
+#include "../UTemplate/Type.hpp"
 
 #include <cstdint>
 #include <functional>

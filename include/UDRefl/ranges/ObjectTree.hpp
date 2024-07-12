@@ -2,7 +2,7 @@
 
 #include "common.hpp"
 
-#include <UDRefl/Object.hpp>
+#include "../Object.hpp"
 
 namespace Ubpa::UDRefl {
 	class UDRefl_core_API ObjectTree {

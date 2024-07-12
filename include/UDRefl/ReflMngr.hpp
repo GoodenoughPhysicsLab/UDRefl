@@ -124,7 +124,7 @@ namespace Ubpa::UDRefl {
 		bool AddTypeAttr(Type type, Attr attr);
 		bool AddFieldAttr(Type type, Name field_name, Attr attr);
 		bool AddMethodAttr(Type type, Name method_name, Attr attr);
-		
+
 		Name AddTrivialDefaultConstructor(Type type);
 		Name AddTrivialCopyConstructor   (Type type);
 		Name AddZeroDefaultConstructor   (Type type);

@@ -2,6 +2,7 @@
 
 #include "Object.hpp"
 
+#include <type_traits>
 #include <variant>
 
 namespace Ubpa::UDRefl {
